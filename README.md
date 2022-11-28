@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning or pursuing BCA. 
 - 💞️ I’m looking to collaborate on! 
 - 📫 How to reach me:
-     Email: vivaanfwd@duck.com 
-     Telegram : @VivaanFWD 
-     GitHub : zfvi5q34@duck.com
+- 📧 Email: vivaanfwd@duck.com 
+- 📞 Telegram : @VivaanFWD 
+- 🕸 GitHub : zfvi5q34@duck.com
 
 
 <!---
