@@ -8,6 +8,8 @@
 - 📞 Telegram : @VivaanFWD 
 - 🕸 GitHub : vivaanfwd@duck.com
 - 🕸 Twitter : @VivaanFWD
+- 🕸 Twitter : https://twitter.com/VivaanFWD
+- 🕸 stackoverflow :https://stackoverflow.com/users/20616279/vivaanfwd
 
 
 <!---
