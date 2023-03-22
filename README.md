@@ -6,7 +6,7 @@
 - 📫 How to reach me:
 - 📧 Email: vivaanfwd@duck.com 
 - 📞 Telegram : @VivaanFWD 
-- 🕸 GitHub : zfvi5q34@duck.com
+- 🕸 GitHub : vivaanfwd@duck.com
 - 🕸 Twitter : @VivaanFWD
 
 
