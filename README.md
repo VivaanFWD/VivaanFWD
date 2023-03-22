@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @VivaanFWD. 
+- 📛 My Name -- Gourav Kumar
 - 👀 I’m interested in Programming. 
 - 🌱 I’m currently learning or pursuing BCA. 
 - 💞️ I’m looking to collaborate on! 
@@ -6,6 +7,7 @@
 - 📧 Email: vivaanfwd@duck.com 
 - 📞 Telegram : @VivaanFWD 
 - 🕸 GitHub : zfvi5q34@duck.com
+- 🕸 Twitter : @VivaanFWD
 
 
 <!---
