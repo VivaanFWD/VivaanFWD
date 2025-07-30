@@ -11,8 +11,11 @@
 🤝 Looking to collaborate on beginner-friendly projects and ideas
 
 📫 How to reach me:
+
 📧 Email: vivaanfwd@duck.com 
+
 🕸 GitHub : vivaanfwd@duck.com
+
 🕸 stackoverflow :https://stackoverflow.com/users/20616279/vivaanfwd
 
 
