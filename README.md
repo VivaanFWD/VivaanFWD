@@ -1,10 +1,10 @@
-👋 Hi, I’m @VivaanFWD
+👋 Hi, I’m **@VivaanFWD**
 
-📛 My name is Gourav Kumar
+📛 My Real Name is **Gourav kumar**
 
 👀 I’m passionate about programming
 
-🌱 Currently pursuing a BCA degree
+🌱 **BCA**
 
 💻 Learning and working with Java & MySQL
 
@@ -13,8 +13,6 @@
 📫 How to reach me:
 
 📧 Email: vivaanfwd@duck.com 
-
-🕸 GitHub : vivaanfwd@duck.com
 
 🕸 stackoverflow :https://stackoverflow.com/users/20616279/vivaanfwd
 
