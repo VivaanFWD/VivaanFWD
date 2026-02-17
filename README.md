@@ -1,21 +1,3 @@
-👋 Hi, I’m **@VivaanFWD**
-
-📛 My Real Name is **Gourav kumar**
-
-👀 I’m passionate about programming
-
-🌱 **BCA**
-
-💻 Learning and working with Java & MySQL
-
-🤝 Looking to collaborate on beginner-friendly projects and ideas
-
-📫 How to reach me:
-
-📧 Email: vivaanfwd@duck.com 
-
-🕸 stackoverflow :https://stackoverflow.com/users/20616279/vivaanfwd
-
 
 <!---
 VivaanFWD/VivaanFWD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -51,14 +33,14 @@ You can click the Preview link to take a look at your changes.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VivaanFWD&show_icons=true&theme=radical" />
 </p>
 
 ---
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VivaanFWD&theme=radical" />
 </p>
 
 ---
@@ -68,3 +50,14 @@ You can click the Preview link to take a look at your changes.
   <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
   <a href="mailto:you@gmail.com">Email</a>
 </p>
+
+## Badges of Certificates
+![Certificate](https://img.shields.io/badge/Java%20Certification-Oracle-red)
+
+
+## 📈 STEP 5: Advanced GitHub Cards (Must-Have)
+## 🔹 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+## 🔹 Contribution Graph Snake (Very Advanced)
+![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
