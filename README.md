@@ -45,10 +45,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=VivaanFWD&show_icons=true&theme=tokyonight&cache_seconds=1800"
-    alt="VivaanFWD GitHub Stats"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VivaanFWD&theme=radical" />
 </p>
 
 
