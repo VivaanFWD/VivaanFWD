@@ -60,5 +60,10 @@ You can click the Preview link to take a look at your changes.
 ## 🔹 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
-## 🔹 Contribution Graph Snake (Very Advanced)
-![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VivaanFWD/VivaanFWD/output/github-contribution-grid-snake.svg" />
+</p>
+
