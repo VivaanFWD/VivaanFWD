@@ -33,8 +33,12 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VivaanFWD&show_icons=true&theme=radical" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=VivaanFWD&show_icons=true&theme=radical&count_private=true&include_all_commits=true"
+    alt="VivaanFWD GitHub Stats"
+  />
 </p>
 
 ---
@@ -48,17 +52,19 @@ You can click the Preview link to take a look at your changes.
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
-  <a href="mailto:you@gmail.com">Email</a>
+  <a href="https://linkedin.com/in/fwd-gourav-kumar">LinkedIn</a> •
+  <!--
+  <a href="mailto:vivaanfwd@gmail.com">Email</a>
+  -->
 </p>
 
+<!--
 ## Badges of Certificates
 ![Certificate](https://img.shields.io/badge/Java%20Certification-Oracle-red)
+-->
 
-
-## 📈 STEP 5: Advanced GitHub Cards (Must-Have)
-## 🔹 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+## Project's
+![FWD Luxe Residency](https://javaee-render-deploy.onrender.com/index.jsp)
 
 
 ## 🐍 Contribution Snake
