@@ -73,17 +73,21 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 🌐 Connect With Me
+<!--
 <p align="center">
   <a href="https://linkedin.com/in/fwd-gourav-kumar">LinkedIn</a> •
   <!--
   <a href="mailto:vivaanfwd@gmail.com">Email</a>
-  -->
 </p>
 
-<!--
 ## Badges of Certificates
 ![Certificate](https://img.shields.io/badge/Java%20Certification-Oracle-red)
 -->
+
+>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-fwd-gourav-kumar/)
+>[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)](https://github.com/VivaanFWD)
+
+
 
 ## Project's
 >![FWD Luxe Residency](https://javaee-render-deploy.onrender.com/index.jsp)
