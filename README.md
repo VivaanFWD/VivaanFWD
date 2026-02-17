@@ -18,10 +18,30 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 🧠 Skills & Tools
+  <!--
 <p align="center">
+  JAVA<img src="https://skillicons.dev/icons?i=java" />
+  PYTHON<img src="https://skillicons.dev/icons?i=python" />
+  HTML<img src="https://skillicons.dev/icons?i=html" />
+  CSS<img src="https://skillicons.dev/icons?i=css" />
+  JS<img src="https://skillicons.dev/icons?i=js" />
+  GIT<img src="https://skillicons.dev/icons?i=git" />
+  GITHUB<img src="https://skillicons.dev/icons?i=github" />
+
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github" />
 </p>
+  -->
 
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github"
+    alt="Java, Python, HTML, CSS, JavaScript, Git, GitHub"
+  />
+</p>
+
+
+<!--
 ---
 
 ## 🏆 Certificates
@@ -36,10 +56,11 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=VivaanFWD&show_icons=true&theme=radical&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=VivaanFWD&show_icons=true&theme=tokyonight&cache_seconds=1800"
     alt="VivaanFWD GitHub Stats"
   />
 </p>
+-->
 
 ---
 
@@ -66,6 +87,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Project's
 ![FWD Luxe Residency](https://javaee-render-deploy.onrender.com/index.jsp)
+<img src="FWD Luxe Residency conv 0.png" alt="FWD Lux Residency">
 
 
 ## 🐍 Contribution Snake
