@@ -1,3 +1,4 @@
+![Banner](Gourav_Github_Banner_image.png)
 
 <!---
 VivaanFWD/VivaanFWD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
